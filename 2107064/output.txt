@@ -1,0 +1,132 @@
+                                                   XYZ Airlines
+
+                                        ____________Main Menu___________
+                                _________________________________________________
+
+                                |        Press 1 to add the Customer Details    |
+                                |        Press 2 for Flight Registration        |
+                                |        Press 3 for Ticket and Charges         |
+                                |        Press 4 to Exit                        |
+                                _________________________________________________
+Enter the choice : 1
+
+                                ___________Adding the Customer details___________
+
+
+Enter the customer ID : 234
+
+Enter the name : jahid hasan
+
+Enter your phone number: 01307435969
+
+Enter the age : 20
+
+Enter the Address : Dhada
+
+Gender : male
+
+Your details are saved with us!!!
+
+                                                   XYZ Airlines
+
+                                        ____________Main Menu___________
+                                _________________________________________________
+
+                                |        Press 1 to add the Customer Details    |
+                                |        Press 2 for Flight Registration        |
+                                |        Press 3 for Ticket and Charges         |
+                                |        Press 4 to Exit                        |
+                                _________________________________________________
+Enter the choice : 2
+
+                                _________Book a flight using this system_________
+
+
+Welcome to the Airlines!
+
+Press 1 for Flight to Dubai
+Press 2 for Flight to Canada
+Press 3 for Flight to UK
+Press 4 for Flight to USA
+
+Enter your choice : 3
+
+                                __________________Welcome to UK Airways________________
+
+Your comfort is our priority.Enjoy the journey!
+
+Following are the flights
+
+1.UK - 398 :
+
+           Date -> 06-08-2023  Time -> 7:00AM  Duration -> 08hrs Cost -> Rs.33000
+
+2.UK - 358 :
+
+           Date -> 08-08-2023  Time -> 6:00AM  Duration -> 12hrs Cost -> Rs.27000
+
+3.UK - 368 :
+
+           Date -> 10-08-2023  Time -> 9:00AM  Duration -> 14hrs Cost -> Rs.23000
+
+
+Select the flight you want to book :2
+
+You have successfully  booked the flight UK - 358
+
+
+You can go back to menu and take the ticket
+
+                                                   XYZ Airlines
+
+                                        ____________Main Menu___________
+                                _________________________________________________
+
+                                |        Press 1 to add the Customer Details    |
+                                |        Press 2 for Flight Registration        |
+                                |        Press 3 for Ticket and Charges         |
+                                |        Press 4 to Exit                        |
+                                _________________________________________________
+Enter the choice : 3
+                                _________________GET YOUR TICKET_________________
+
+Your ticket is printed,you can collect it
+
+
+
+                                ___________________XYZ Airlines__________________
+
+                                ______________________Ticket_____________________
+
+                                _________________________________________________
+
+                                 Customer ID    :234
+
+                                 Customer Name  :jahid hasan
+
+                                 Customer Gender:male
+
+                                 Customer Phone :01307435969
+
+                                ________________Description________________
+
+                                        Destination : UK
+
+                                        Flight cost : Rs.27000
+
+
+                                _____________________________________________________
+
+                                                   XYZ Airlines
+
+                                        ____________Main Menu___________
+                                _________________________________________________
+
+                                |        Press 1 to add the Customer Details    |
+                                |        Press 2 for Flight Registration        |
+                                |        Press 3 for Ticket and Charges         |
+                                |        Press 4 to Exit                        |
+                                _________________________________________________
+Enter the choice : 4
+
+                                        ________Thank you________
